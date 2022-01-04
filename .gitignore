@@ -29,6 +29,8 @@ build/
 local.properties
 *.iml
 *.hprof
+app/
+google-services.json
 
 # node.js
 #
@@ -58,3 +60,5 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+android/app/google-services.json
+android/app/google-services.json
